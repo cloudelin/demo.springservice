@@ -12,9 +12,9 @@ import org.vgl.service.data.trans.UserDTO;
 
 
 /**
- * 
+ * User controller for user dao
  * @author Cloude
- *
+ * @since 
  */
 @org.springframework.stereotype.Controller
 public class UserRestController {
