@@ -9,6 +9,11 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.vgl.service.data.trans.Greeting;
 
+/**
+ * 
+ * @author cloude
+ * @since
+ */
 @Controller
 public class GreetingController {
 
